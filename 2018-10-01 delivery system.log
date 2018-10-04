@@ -105,7 +105,7 @@ Simulation  ShowPropertyViewer  {  FALSE  }
 Simulation  ShowLogViewer  {  FALSE  }
 Simulation  InputEditorPos  {  316  1000  }
 Simulation  InputEditorSize  {  520  440  }
-Simulation  OutputViewerSize  {  1113  440  }
+Simulation  OutputViewerSize  {  596  440  }
 %Pallet_receiver%ExpressionThreshold1  Position  {  0.7  0.4  0.0  m  }
 %Pallet_receiver%ExpressionThreshold1  Points  {  {  2.8  7.1  0.0  m  }  {  3.8  7.1  0.0  m  }  }
 %Pallet_receiver%ExpressionThreshold1  RelativeEntity  {  Pallet_receiver  }
@@ -200,8 +200,8 @@ Text1  Format  {  Capacity = %.0f t  }
 Text1  Unit  {  t  }
 Text1  DataSource  {  [qty].Value * [Pallet_weight].Value  }
 View1  Description  {  Default view window  }
-View1  ViewCenter  {  1.918101  4.842057  4.019223  m  }
-View1  ViewPosition  {  1.918101  4.842057  12.679477  m  }
+View1  ViewCenter  {  10.27308  11.160349  5.287171  m  }
+View1  ViewPosition  {  10.27308  11.160349  13.947425  m  }
 View1  ShowWindow  {  TRUE  }
 View1  Lock2D  {  TRUE  }
 View1  SkyboxImage  {  <res>/images/sky_map_2048x1024.jpg  }
